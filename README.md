@@ -1,2 +1,2 @@
 # portfolio
-it is a basic portfolio
+A basic one
